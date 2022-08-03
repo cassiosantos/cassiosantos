@@ -1,6 +1,6 @@
 ### Hey, I'm Cassio Santos! 👋
 
-Software Engineer at [**Aurum Software**](https://github.com/aurumsoftware).
+Software Engineer at [**FlixMobility Tech GmbH**](https://www.linkedin.com/company/flixbus).
 
 ### Find me elsewhere 🌎
 
