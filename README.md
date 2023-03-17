@@ -1,6 +1,6 @@
 ### Hey, I'm Cassio Santos! 👋
 
-Software Engineer at [**FlixMobility Tech GmbH**](https://www.linkedin.com/company/flixbus).
+Software Engineer at [**CARSYNC GmbH**](https://www.carsync.de).
 
 ### Find me elsewhere 🌎
 
